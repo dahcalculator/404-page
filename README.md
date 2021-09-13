@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://404-pagenotfound.netlify.app/">
+    <a href="https://404-pagenotfound.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://https://404-pagenotfound.netlify.app/">
+    <a href="https://404-pagenotfound.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -36,14 +36,13 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://user-images.githubusercontent.com/32149036/133011254-706d3429-5815-4dc0-89c8-0c4d47d937e1.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 This is a 404 page not found challenge for responsible web design 
 
 - where can i find a demo
-* Your can find the demo to this web app by visiting https://404-pagenotfound.netlify.app/
+* Your can find the demo to this web app by visiting 404-pagenotfound.netlify.app/
 - What was your experience?
 * well i learnt how to make proper used of REM css unit
 - What have you learned/improved?
