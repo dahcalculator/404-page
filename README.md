@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{404 not found page}</h1>
+<h1 align="center">404 not found page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://404-pagenotfound.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://https://404-pagenotfound.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -40,18 +40,23 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+This is a 404 page not found challenge for responsible web design 
+
+- where can i find a demo
+* Your can find the demo to this web app by visiting https://404-pagenotfound.netlify.app/
 - What was your experience?
+* well i learnt how to make proper used of REM css unit
 - What have you learned/improved?
+* i imptrove on my CSS because its been quite a little long i designed.
 - Your wisdom? :)
+* Practicing is your only savouir
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
 
 ## Features
 
@@ -64,12 +69,12 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
+-CRAFTWORK (https://craftwork.design) for their free illustrator artwork.
+- NETLIFY(https://netlify.com) for free web hosting of this project
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+
+- GitHub [@your-username](https://{github.com/dahcalculator})
+- Twitter [@your-twitter](https://{twitter.com/dahcalculator})
